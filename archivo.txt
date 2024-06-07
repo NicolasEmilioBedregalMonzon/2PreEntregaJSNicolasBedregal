@@ -1,0 +1,4 @@
+funciones de la pagina ,
+1-selecionar el gusto de la vianda que necesitas.
+2- sumar el total 
+3- nuevo
